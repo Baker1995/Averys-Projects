@@ -8,3 +8,4 @@ The video game analysis is a guided project from DataCamp using datasets that pr
 The baby name analysis is a guided project from DataCamp using a single dataset with information about baby names and their popularity of the decades.
 The international debt analysis is a guided project from DataCamp using a single dataset with information about different types of debt held by 124 countries aroudn the world.
 The analysis of the world's oldest businesses is a guided project from DataCamp using three different datasets with information about the categories, countries and different types of oldest businesses around the world.
+The analysis of the NYC public school test scores is a guided project from DataCamp using a single dataset with information about the average math, reading, writing scores from the individual schools in each borough of NYC.
